@@ -8,6 +8,10 @@ Este projeto tem o intuito de criar um servidor que servirá o aplicativo para a
 
 ### Virtual Env
 
-py -3 -m venv .venv .venv\Scripts\activate .venv\Scripts\deactivate.bat
+py -3 -m venv .venv
+
+.venv\Scripts\activate
+
+.venv\Scripts\deactivate.bat
 
 

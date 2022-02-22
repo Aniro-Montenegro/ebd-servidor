@@ -1,5 +1,6 @@
 import requests
 
+
 def buscar_endereco(cep):
     """
     Busca o endereço de um usuario conforme o cep informado

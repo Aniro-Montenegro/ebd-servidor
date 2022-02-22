@@ -14,4 +14,12 @@ py -3 -m venv .venv
 
 .venv\Scripts\deactivate.bat
 
+<<<<<<< HEAD
+=======
+### Pip Gerenciamento de pacotes
+
+pip install requests
+
+Git
+>>>>>>> gestao_dependencias
 

@@ -6,6 +6,10 @@
 
 Este projeto tem o intuito de criar um servidor que servirá o aplicativo para administração da Escola Dominical
 
+### Requimerents
+
+pip freeze > requirements.txt
+
 ### Virtual Env
 
 py -3 -m venv .venv
@@ -14,12 +18,33 @@ py -3 -m venv .venv
 
 .venv\Scripts\deactivate.bat
 
-<<<<<<< HEAD
-=======
 ### Pip Gerenciamento de pacotes
 
-pip install requests
+pip install requests- cria o arquivo requeriments
 
-Git
->>>>>>> gestao_dependencias
+pip install -r requirements.txt - instala as bibliotecas do projeto
+
+### Flake8
+
+pip install flake8
+
+pip freeze > requirements-dev.txt
+
+pip install -r requirements-dev.txt
+
+flake8 - avalia o codigo
+
+## Para Inatalar
+
+````commandline
+py -3 -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements-dev.txt
+````
+
+### Para Conferir qualidade do código
+
+````commandline
+flake8
+````
 

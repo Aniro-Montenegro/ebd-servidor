@@ -14,9 +14,11 @@ py -3 -m venv .venv
 
 .venv\Scripts\deactivate.bat
 
+
 ### Pip Gerenciamento de pacotes
 
 pip install requests
 
 Git
+
 

@@ -48,3 +48,10 @@ pip install -r requirements-dev.txt
 flake8
 ````
 
+# Upgrade de Dependencias
+
+pip uninstall [requests] - Desistala biblioteca especifica(usas sem conchetes)
+
+pip freeze
+
+pip install requests==2.27.1 - Instala biblioteca especifica

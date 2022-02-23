@@ -3,7 +3,7 @@ import requests
 
 def buscar_endereco(cep):
     """
-    Busca o endereço de um usuario conforme o cep informado
+    Busca o endereço de um usuario conforme o cep informado o cep
     :param cep:
     :return:
     """

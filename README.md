@@ -1,5 +1,9 @@
 # ebd-servidor
 
+[![Build Status](https://app.travis-ci.com/Aniro-Montenegro/ebd-servidor.svg?branch=main)](https://app.travis-ci.com/Aniro-Montenegro/ebd-servidor)
+[![Updates](https://pyup.io/repos/github/Aniro-Montenegro/ebd-servidor/shield.svg)](https://pyup.io/repos/github/Aniro-Montenegro/ebd-servidor/)
+[![Python 3](https://pyup.io/repos/github/Aniro-Montenegro/ebd-servidor/python-3-shield.svg)](https://pyup.io/repos/github/Aniro-Montenegro/ebd-servidor/)
+
 ## Projeto em Python para servidor de Escola Dominical
 
 ### Projeto em Python para servidor de Escola Dominical
